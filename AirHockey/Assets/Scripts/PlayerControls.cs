@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿// Amtoj Uppal - 100656592
+// Katie Tong - 100655511
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
